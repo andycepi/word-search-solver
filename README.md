@@ -1,8 +1,8 @@
-word-search-solver
+Word Search Solver
 ================
 A simple word search solver
 
-How to use 
+How to Use 
 ==========
   -First put the letters of the crossword in the file CharArray.txt 
   
