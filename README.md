@@ -1,4 +1,4 @@
-crossword-solver
+word-search-solver
 ================
 
-A simple crossword solver
+A simple word search solver
